@@ -1,10 +1,9 @@
 # Nama Kelompok : Depe Enam
-Nama Project : ManajemenDataBelanja
+Nama Project : Manajemen Data Belanja
 
-Anggota :
-Richard Jonathan 241401093
-
-Fernando Valens Junior Ginting 241401126
+Anggota Kelompok:
+1. Richard Jonathan (241401093)
+2. Fernando Valens Junior Ginting (241401126)
 
 Dekripsi : program pencatat managemen belanjaan
 
